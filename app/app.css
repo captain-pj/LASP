@@ -1,0 +1,18 @@
+/* app css stylesheet */
+
+form {
+  display: block;
+  margin:50px auto;
+  width: 50%;
+}
+form input {
+    display: inline-block;
+    margin: 10px;
+}
+#container.loading {
+  background: url(loading.png) no-repeat 0 0 transparent;
+}
+
+p {
+  margin-left: 20px;
+}
